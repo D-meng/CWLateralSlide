@@ -10,6 +10,4 @@
 
 @interface CWScrollView : UIScrollView
 
-
-
 @end
